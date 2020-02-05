@@ -6,9 +6,15 @@ button {
   border-radius: 12px;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
-h1 {background-color: #ffcc99;
-	color: black;
-}
+
 p {background-color: #ffcc99;
-	color: black;
+	color: black
+	font: georgia;
+}
+h1
+{font: georgia;
+}
+
+h2
+{font: georgia;
 }
